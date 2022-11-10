@@ -1,5 +1,3 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
-
 # Lab | BRRRGRRR
 
 Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of Kalvians and she thought you could do a great job. 
@@ -12,9 +10,6 @@ Fork this repo
 Clone this repo
 And get started with the lab
 ```
-
-## How To Submit
-
 
 ### Progression 1: LAYERS
 
